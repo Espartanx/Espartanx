@@ -1,0 +1,15 @@
+.netflix.com	TRUE	/	FALSE	1697326109	OptanonAlertBoxClosed	2022-10-14T23:28:29.788Z
+.netflix.com	TRUE	/	FALSE	1728904017	dsca	anonymous
+www.netflix.com	FALSE	/	FALSE	1686192109	didUserInteractWithPage	true
+secured.netflix.com	FALSE	/	FALSE	1731190326	thx_guid	39e6939c625157af44b47115aa04e4de
+.netflix.com	TRUE	/	FALSE	1700518366	nfvdid	BQFmAAEBEL8QRDMIfDk3GT8218bwW1FgTjJcvJqtA9e2A7SDMXCGBlXWS0uKoh1FymglJr2UQS3HKjdY156rbINAw-0CbyNYwMpMSOqtDBnb2PuUxI4GBK1JY0cEI82GdD2GRekWbrYujppzpamDjBBpOrz2GGH1
+.netflix.com	TRUE	/	FALSE	1675374559	flwssn	6804e046-a4ed-42d7-8c9e-8358d74fe978
+.netflix.com	TRUE	/	FALSE	1706899761	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABRGZTDzFw9g11hqR9xk8ohoGCRX7zkLrmg.%26dt%3D1675363761759
+.netflix.com	TRUE	/	FALSE	1706899761	NetflixId	ct%3DBQAOAAEBEIiO_GZn6rz6EtQETv282gKB8KSS-LVr2Ff0i7gmeoScwZq5MBmAjLbPsgNrkH7RdDzm6oPOCFT5iP8QZvtiBxAs0xETgZ3DdHDkOL836tP8tGcNyMmVKe0v8jKmQh7yGnqLgXJVfAul1V_qBg757gbbO_5tZkpZQXgT6pAEKm2OV9UFlurene4nw5oQLl1A5oksqoGWhzTdzOF7LNONANz5CdsymA9jLpNzY70SAbi2XY5DUK6JYyN41rRF356sAVO93u6jFZ4u3vFkkqm3OmUZ_SsI1QjPnSeMPDCmm-AOyR8B940wCMk7Z6HVc1E6j5ek_xwI5ArYcshsAf6oF-Bbyn-6DXyMM6paygOOrfGsJCbwequMlrTiEKGa3kGMpdLMr6YJdmDUmyoSzflkvqpzLQuaXcM-vaOwL3NGgj5P-_DjVzEmydGw1yKf6U2KR5fZrgk9BbWz1VUL5jdmoCiDNJTzz-QCg0f2YvhqQ4jr2NI_bTL5eS_yX2m52WbgI-f6oB_pbayQ4_XF2SNwmltpz_OwoPLZ5VdDh6UXdMED-YoijGuHtRB_qCiKDpJJyGPTSCDul_oRNISrvpLjDROeQOSoWJGE19Tyt1Th9x_MJlZCtrcMRKvU_rkoiyuYp6ZYcAdA3c32oEYg466w7oQWWqTWk34aPvuTyaEOklnaEGU.%26bt%3Ddbl%26ch%3DAQEAEAABABRMSVKY4KDgbLQ535KFHxiRzJlM_HafNNY.%26v%3D2%26mac%3DAQEAEAABABRQhEmzchstqwkpcubwuCHEEsVRWWOTHU4.
+.netflix.com	TRUE	/	FALSE	1683139760	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	FALSE	1683139760	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1683139760	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1683139760	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1706899761	OptanonConsent	isIABGlobal=false&datestamp=Thu+Feb+02+2023+19%3A49%3A21+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202301.1.0&consentId=0e3a2717-076b-4f08-8052-414d07957fa1&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&hosts=&geolocation=ES%3BMD&AwaitingReconsent=false&isGpcEnabled=0
+.netflix.com	TRUE	/	FALSE	1675365628	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1706899874	memclid	eda10500-a7e4-43e3-933a-fb242d0a96b5

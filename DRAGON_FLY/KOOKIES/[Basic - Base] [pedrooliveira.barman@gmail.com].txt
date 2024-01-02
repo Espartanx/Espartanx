@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1678056724	nfvdid	BQFmAAEBEASw589N3XZJ6oJzCpg8myhg-6og50BCYONgcBVDj0a6zW4ewx7BLVq-eclwrOSVNTVUTZnjcaqwikrdno9B_RM39vdYyt3jOZSRfIupsOU63jcCdrAaHR9_tMe23Tjk7Xiu6uLgMmnGdGQWi-f5rkbT
+.netflix.com	TRUE	/	TRUE	1681601377	OptanonAlertBoxClosed	2022-04-16T01:29:37.607Z
+.netflix.com	FALSE	/	FALSE	1693346747	NetflixId	ct%3DBQAOAAEBEBVSa4PWHjAlTILBTvG-XKuCECn8V_QD0REt1V-6vstQn4ttkM1iZicezNx4iU9pe9TezhGl6W0vqfIFjPdQRPfhu2-5nigkDOJdM9x4BqaVuqMLM50aNq3mnE1yD0XEpX4bmB3DK-HgN00uxPFaWS2RsOFyDtYps_TLrUgPus1k2jNJQj74lS-a7xP0Ao8sSodJv1suWSo9edvLqxlimvXAfay9oDeFoVnOaovPhKmqlD69qEq87YhVwz3wMXIvKNgMFSOXZ6WJkuXjQOtdiyH98KRislEx6Sr8pFFJJjZpA4V409BrAlol6aFYWLmtHb5i04JmY2PgN9XbX8cNMjYrbdFB_j76JEX5_18JtCP-1vakTPok0Xt_QjN-qoePZuowjQ8O4ZZi9n22iGX8KqsN3I7mRp82sanuJBMpcxt7pebsBLtsBH7eJFm9_21S68W2y_CdnXno5N6KUCPTa5p5z0pAMJFIoExWK6pVNmOJWkJNjSNxTuXVMyly4Ll23EmUFVBvIn6jTcsr0MvkOBwIUZflsCj2kpTUWHxLMdAd6LkDZcXRXrWlTDix7kF27dsrwYt7uUWPuaq1UcVce1TkfeZ-2-V4ukXvFErmf34t2TX01PgspsmifQ7MIndHnoMnJQMpkFxkSumAogB-kxxlRexWss9iBZSjneTAGjeu5xzhZEuT18lAMfEtjhmCf0sR-fFxc6eYvB_IYg0aLcPqcA..%26bt%3Ddbl%26ch%3DAQEAEAABABSaBY16ki7fAVDgYqkiFIq6O6dETgtdVQQ.%26v%3D2%26mac%3DAQEAEAABABQ2POKOrYVbhgAYRTW_46_iVS808C3ZAvg.
+.netflix.com	TRUE	/	TRUE	1693346745	OptanonConsent	isIABGlobal=false&datestamp=Tue+Aug+30+2022+01%3A05%3A45+GMT%2B0100+(Hora+de+ver%C3%A3o+da+Europa+Ocidental)&version=6.6.0&consentId=94c2891b-d391-40fa-ba16-12cfb6db0b0a&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&hosts=H12%3A1%2CH13%3A1%2CH51%3A1%2CH45%3A1%2CH46%3A1%2CH48%3A1%2CH49%3A1%2CH52%3A1&AwaitingReconsent=false&geolocation=PT%3B30
+.netflix.com	FALSE	/	FALSE	1693346747	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABR-ipaRoCmk0azVn2KIh-ZVt7MNqDSAEJg.%26dt%3D1661817949004
+.netflix.com	TRUE	/	TRUE	1696370744	dsca	customer
+.netflix.com	TRUE	/	TRUE	1661821544	flwssn	8fc8102d-7cc3-497f-8d1d-f6abe64ee60b
+.netflix.com	TRUE	/	TRUE	1669586745	hasSeenCookieDisclosure	true
+.netflix.com	TRUE	/	TRUE	1669586745	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	TRUE	1661818274	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1693352499	memclid	5c59a61a-8459-4981-a8c7-659fd24adb2e

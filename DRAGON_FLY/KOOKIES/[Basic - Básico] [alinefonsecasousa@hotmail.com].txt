@@ -1,0 +1,11 @@
+.netflix.com	TRUE	/	TRUE	1685459640	nfvdid	BQFmAAEBENyaZp8PRMIdqS54-VJSWe9gMBDHrNEJG_G1A7Uj-yfneD4mBYFSrs2dlvw7Eja5KRiBGcGgPTt_Oy_FG28f_8w3CvDrCORZJSsX7v5GNrVY7sfjyu_0JxcxJe1c3-KbJw-PqZDbBxZOdNghN3njtJqD
+.netflix.com	TRUE	/	TRUE	1685459666	OptanonAlertBoxClosed	2022-05-30T17:14:26.814Z
+secured.netflix.com	FALSE	/	FALSE	1699186567	thx_guid	5682615fb0302fb5a40c69a8b5fad26f
+.netflix.com	FALSE	/	FALSE	1706356779	NetflixId	ct%3DBQAOAAEBEP4uviDXnQM8_rZfysknXSKB8L6uAz2uIchy7cJNHCc2n9mYPVNhapuBx5zdKPHPXWZdYevuzz67Vl1FpJrDUqMUw0IooS8XL1b-bHSUYoF-ccTxwN4HS8hvBKlJvKgjEurZAKDn8AQPH_Dix9EZOtCv3nHMhYoN19jfH0umWZ8-PSe6nab2ZthaCka_Y9-a367kfO2NrhRVKP3h8zPqe6E95MrgalfCKkOHbOiMg1h1l54UL-8KBxj-inylGIi4FVHLGgSF61IwN-j8cn7leKfiR605G7dVQY6LHkZgecmdbHZo15YCARjk2lC55BM7UvXUDlUPhzC0F6foFJu_zpdNXgv7P-X_oyzow6X1l9yCJSjMQen7YsXVaadafXqlfXktwd62-IYEFKcovgEYCECwoE14AIXEuRR2rSz1Eeeytp6DQ1Vi9aEgE1pHDNiU9YOD7LIg2BM1bMcrA-zCAgSYMDqADyRmDS75l6oPxskOGLPyJnCy2yoX3DjC-oBhm_Uj40z4k6zcxzq3MIM27zpX8WPcrBTN0ydl_05u58sp_KNXczG2jrgOEAhG_6pUZnyVlGYaHLyNBiHsB2jQDXOMqHV_StB4SkpDARVi8tCT-vX5t2tD333Eku0PqsF3OmS0ORTcRh3Rb86TumudSuYb143R6GKFNTMiTaK_2W0WWrA.%26bt%3Ddbl%26ch%3DAQEAEAABABRmYRFwn4EJPJ08oiFpQuVcMROLXi9Jumk.%26v%3D2%26mac%3DAQEAEAABABTFuwJylD4hawEStw_lW37pV5cbu2iC22E.
+.netflix.com	TRUE	/	TRUE	1706356780	OptanonConsent	isIABGlobal=false&datestamp=Fri+Jan+27+2023+10%3A59%3A40+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202301.1.0&consentId=fccb5266-13a4-481e-8832-88bb271afcda&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&hosts=&AwaitingReconsent=false&geolocation=BR%3BCE&isGpcEnabled=0
+.netflix.com	FALSE	/	FALSE	1706356779	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABTdtUfB4LDQ7qom6IJ7b6Lg0ETElH2JqT4.%26dt%3D1674827895610
+.netflix.com	TRUE	/	TRUE	1682596780	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1682596780	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1682596780	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1706357020	memclid	35c3f105-3758-4bc8-8c2f-d4d6a16cce44
+.netflix.com	TRUE	/	TRUE	1674822824	profilesNewSession	0

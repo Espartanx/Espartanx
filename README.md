@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Espartanx
-- 👀 me interesa  Aprender a programar 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+CUENTAS PARA HBO+ PARAMOUNT+ Y NETFLIX 
+PARA TODA DISTRIBUCIÓN  DE LINUX 
+echo en termux 
 
-<!---
-Espartanx/Espartanx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ejecuta el codigo con 
+bash cuentas.sh🙌
+
+
+cualquier duda 
+contactame a mi correo 
+Espartanxpro2.0@gmail.com🫢
+
+
+
+dale una 🌟 al repositorio 
+🌼
+cada mes lo actualisare❤️

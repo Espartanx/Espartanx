@@ -1,0 +1,15 @@
+.netflix.com	TRUE	/	FALSE	1702115224	nfvdid	BQFmAAEBEAVHZkUYT2jGLA9ekhimP8hg2Sb3pWQ2QHTKCVIpcbVlleXs1FpjF4HW2jGdOO-Km9TGD6J_BRhJ8YwLnfOrMIUj3bCpVBJ-g0m8Q18dCjVzWJFS6nnx4vpo3gJBlphpqqEBlscOkBfVljAQcm31Ejil
+.netflix.com	TRUE	/	FALSE	1710535860	memclid	30ada272-b57d-49b0-8be0-4aa40d3fc91d
+.netflix.com	TRUE	/	FALSE	1727538998	dsca	customer
+.netflix.com	TRUE	/	TRUE	1725005818	NetflixId	ct%3DBQAOAAEBEB8gTfmB2GEOoPAKWgo2zfeCUNi9xgZspKOA_HxkLceMsXiQM6mqNRuKU-Xy9iW9DOalUGuUggZDB1h_qzlKGnxrYD58TfxUWMIDF30i4Am-aGDjDIwQZ7F3OuNAaHA5f3-lT5oSHVj3ZwsGL8nUNZTw5qiyqqpi1HunK4mGoWG_KZcMWjyi7zIa83XhKnCmHMxbKgUKL16PINpD1yKxBZ0P9MvszUDYYy7DHcSBVyk_DctBvmUyjqPqm-TkvwmVU1Fc_wNxzoPPpMkx7xYbRIFcDP4GOJoYBIM1kn-N7U_UppgDdduPHI6tbIQQH4floDNgh9WqIh3hfmaquw6i61ribSJDDmEh8TcBCRaA0nuPAAZFYsNfQwqdUrYwmAYmQeAjjz4iJaXvcnqpQucpzWsHx0SgXD6AuWHsY6Alc0fAdFXd-7rg56iI1Qqoy8_RRSIxpwMLw-ftf-1__yPOIkTiCasIkfhuzGryOrGYegXh3NGNrZMCqxDoJFypTlu0LBfiS9z4DTBH7ECavYyvn2PDpVftR_0v2YkcToyJV3c0jbzTrxbtt5lKqLnOVvvOGZlWJbT-ljqzT-PAVvOGL5VSW3izIvZqbLH65o2XxCM7vMhF3juRQhFJrvhorJqc-hGgVhFyW5G29gbzqq7AD3AU4snDgghAWdLrZBeKg-1AEi6rVu1bZ1FHtORqNa6e6n4G2s9RlsY7FZPjL8X7dPNm0xba1fIynOwq6fPET_TtIzBdSaOORFErSGF_Cdut-UYOAFJxLmw9XwySZ3oVscUrbj0DOfChCpEELE92o4qADZE.%26bt%3Ddbl%26ch%3DAQEAEAABABQVxX5Obnn_6fgL1sLaUvp_sT2C7abSXmk.%26v%3D2%26mac%3DAQEAEAABABTsMSilciutaOpkM9nMN8BKXMCVVnjKW3g.
+.netflix.com	TRUE	/	FALSE	1725005821	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+31+2023+10%3A17%3A01+GMT%2B0200+(Ora+legale+dell%E2%80%99Europa+centrale)&version=202301.1.0&isIABGlobal=false&hosts=&consentId=1748dcc6-7a07-4322-9be8-663b62ffbeef&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A0&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1725005818	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABSsauHdaBkcnqtWsmtiuJWUr5MrWFfSthQ.%26dt%3D1693469815894
+.netflix.com	TRUE	/	FALSE	1728029825	__utma	131134992.943630447.1691772790.1693402652.1693469826.20
+.netflix.com	TRUE	/	FALSE	1693471625	__utmb	131134992.1.10.1693469826
+.netflix.com	TRUE	/	FALSE	0	__utmc	131134992
+.netflix.com	TRUE	/	FALSE	1693470425	__utmt	1
+.netflix.com	TRUE	/	FALSE	1709237825	__utmz	131134992.1691772790.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+.netflix.com	TRUE	/	FALSE	1701245819	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701245819	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1701245819	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1693472774	profilesNewSession	0
